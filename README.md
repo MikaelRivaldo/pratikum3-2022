@@ -8,7 +8,7 @@
 
 > Langkah-Langkah Membuat Program Menghitung Luas Dan Keliling Lingkaran
 
-![](gambar1%20pratikum3.png)
+![](gambar/gambar1%20pratikum3.png)
 
 1.Memasukan nilai Jari-jari
 
