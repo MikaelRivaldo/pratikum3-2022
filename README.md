@@ -34,6 +34,8 @@
 
 - Maka dari itu nomor atau karakter yang berada di belakang koma desimal akan dibatasi
 
+![](gambar/gambar2%20pratikum3.png)
+
 
  
 
