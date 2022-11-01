@@ -34,5 +34,6 @@
 
 - Maka dari itu nomor atau karakter yang berada di belakang koma desimal akan dibatasi
 
+
  
 
